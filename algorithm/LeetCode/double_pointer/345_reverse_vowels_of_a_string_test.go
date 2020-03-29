@@ -7,6 +7,7 @@ import (
 
 //题目描述:翻转字符串中的元音字符
 
+// (go的数据类型里面有大学问)
 const A = byte('A')
 const a = byte('a')
 const E = byte('E')
